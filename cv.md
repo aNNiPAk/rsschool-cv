@@ -15,3 +15,6 @@ I'm a simple man. No special abilities. I want to learn something new.
 const clg = console.log;
 clg("Hello, world!")
 ```
+
+## Education
+Life is my school!
