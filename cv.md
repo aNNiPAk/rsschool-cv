@@ -9,3 +9,9 @@ I'm a simple man. No special abilities. I want to learn something new.
 ## Skills
 - Python (Basic)
 - JavaScript (Basic)
+
+## Code Example
+```javascript
+const clg = console.log;
+clg("Hello, world!")
+```
