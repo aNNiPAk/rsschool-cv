@@ -18,3 +18,7 @@ clg("Hello, world!")
 
 ## Education
 Life is my school!
+
+## Experience
+- Read https://learn.javascript.ru/
+- Parsing websites in python
