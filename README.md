@@ -1,1 +1,1 @@
-https://aNNiPAk.github.io/rsschool-cv/cv
+https://aNNiPAk.github.io/rsschool-cv/
