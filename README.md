@@ -1,1 +1,1 @@
-# rsschool-cv
+https://aNNiPAk.github.io/rsschool-cv/
